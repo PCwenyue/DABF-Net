@@ -4,3 +4,6 @@ Dataset Name‌: NCHU-A2G-SIRST.zip
 Storage Platform‌: Baidu Pan (百度网盘)
 Link‌: https://pan.baidu.com/s/1RBAlW-S97K-6fSwcpjlGPA?pwd=vk7d
 Extraction Code‌: vk7d
+file：best.pt
+Link：https://pan.baidu.com/s/15-NYi7P3aAszWhqwYqzwLg?pwd=yMQg 
+Extraction Code：yMQg 
